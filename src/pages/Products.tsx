@@ -27,7 +27,7 @@ export default function Products() {
             transition={{ delay: 0.1 }}
             className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed"
           >
-            Parcourez notre catalogue de téléviseurs, électroménager et équipements maison.
+            Parcourez notre catalogue de Smart TV et congélateurs.
             Cliquez sur un produit pour voir ses détails ou commander directement via WhatsApp.
           </motion.p>
         </div>

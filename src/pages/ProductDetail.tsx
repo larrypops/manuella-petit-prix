@@ -51,17 +51,17 @@ export default function ProductDetail({ id }: ProductDetailProps) {
             animate={{ opacity: 1, x: 0 }}
             className="space-y-4"
           >
-            <div className="aspect-square rounded-[2.5rem] overflow-hidden bg-gray-100 border border-gray-100">
+            <div className="aspect-[4/3] rounded-[2.5rem] overflow-hidden bg-gray-100 border border-gray-100 p-4">
               <img
                 src={product.imageUrl}
                 alt={product.name}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
               />
             </div>
             <div className="grid grid-cols-4 gap-4">
               {[1, 2, 3, 4].map((i) => (
-                <div key={i} className="aspect-square rounded-2xl bg-gray-100 overflow-hidden border border-gray-100 opacity-50 cursor-not-allowed">
-                  <img src={product.imageUrl} alt={`${product.name} aperçu ${i}`} className="w-full h-full object-cover blur-[2px]" />
+                <div key={i} className="aspect-square rounded-2xl bg-gray-100 overflow-hidden border border-gray-100 opacity-50 cursor-not-allowed p-2">
+                  <img src={product.imageUrl} alt={`${product.name} aperçu ${i}`} className="w-full h-full object-contain blur-[1px]" />
                 </div>
               ))}
             </div>

@@ -48,10 +48,10 @@ export default function Footer() {
           <div>
             <h4 className="font-display font-bold mb-6">Produits</h4>
             <ul className="space-y-4 text-sm text-gray-400">
-              <li><Link href="/produits" className="hover:text-white transition-colors">Téléviseurs Smart</Link></li>
-              <li><Link href="/produits" className="hover:text-white transition-colors">Réfrigérateurs</Link></li>
-              <li><Link href="/produits" className="hover:text-white transition-colors">Machines à laver</Link></li>
-              <li><Link href="/produits" className="hover:text-white transition-colors">Cuisinières</Link></li>
+              <li><Link href="/produits" className="hover:text-white transition-colors">Smart TV 50 pouces</Link></li>
+              <li><Link href="/produits" className="hover:text-white transition-colors">Congélateur 200L (Innova/Oscar)</Link></li>
+              <li><Link href="/produits" className="hover:text-white transition-colors">Congélateur Oscar 210L</Link></li>
+              <li><Link href="/produits" className="hover:text-white transition-colors">Gamme congélateurs 100L à 700L</Link></li>
             </ul>
           </div>
 

@@ -30,19 +30,20 @@
       "whatsappMessage": "Bonjour, je suis intéressé(e) par la Smart TV 50 pouces."
     },
     {
-      "id": "congelateur-innova-200-litres",
-      "name": "Congélateur Innova 200 litres",
+      "id": "congelateur-200-litres-innova-oscar",
+      "name": "Congélateur 200 litres (Innova/Oscar)",
       "shortDescription": "Promotion spéciale fin d'année pour un congélateur robuste, économique et pratique.",
-      "fullDescription": "Congélateur 200 litres de marque Innova, idéal pour la maison et le commerce. Modèle conçu pour garder les aliments frais plus longtemps avec une congélation rapide et une faible consommation d'énergie.",
+      "fullDescription": "Promotion spéciale fin d'année sur les congélateurs 200 litres des marques Innova et Oscar, idéals pour la maison comme pour le commerce. Modèles conçus pour garder les aliments frais plus longtemps avec une congélation rapide et une faible consommation d'énergie.",
       "features": [
         "Capacité 200 litres",
+        "Marques fiables: Innova et Oscar",
         "Congélation rapide et efficace",
         "Faible consommation d'énergie",
-        "Silencieux et durable"
+        "Design pratique et facile à entretenir"
       ],
       "price": "160 000 FCFA",
-      "imageUrl": "/images/congelateurs-innova/congelateurs-innova-210-litres.jpg",
-      "whatsappMessage": "Bonjour, je suis intéressé(e) par le congélateur Innova 200 litres."
+      "imageUrl": "/images/congelateurs-innova/congelateur-innova-oscar-200-litres.jpg",
+      "whatsappMessage": "Bonjour, je suis intéressé(e) par le congélateur 200 litres (Innova/Oscar)."
     },
     {
       "id": "congelateur-oscar-210-litres",
@@ -63,7 +64,7 @@
       "id": "gamme-congelateurs",
       "name": "Gamme Congélateurs (100L à 700L)",
       "shortDescription": "Congélateurs performants et économiques pour maison, commerce et restaurant.",
-      "fullDescription": "Capacités disponibles: 100L (94 900 FCFA), 120L (110 000 FCFA), 150L (125 000 FCFA), 200L (145 000 FCFA), 250L (165 000 FCFA), 300L (180 000 FCFA), 350L (195 000 FCFA), 450L (310 000 FCFA), 500L (350 000 FCFA), 550L (420 000 FCFA), 700L (600 000 FCFA).",
+      "fullDescription": "Capacités disponibles: 100L (94 900 FCFA), 120L (110 000 FCFA), 150L (125 000 FCFA), 200L (145 000 FCFA), 250L (165 000 FCFA), 300L (180 000 FCFA), 350L (195 000 FCFA), 450L (310 000 FCFA), 500L (350 000 FCFA), 550L (420 000 FCFA), 700L (600 000 FCFA). Les prix peuvent varier selon la marque et le modèle.",
       "features": [
         "Refroidissement rapide",
         "Faible consommation (A+)",
