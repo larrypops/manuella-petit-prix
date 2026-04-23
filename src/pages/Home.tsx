@@ -28,13 +28,13 @@ export default function Home() {
             >
               <div className="inline-flex items-center gap-2 px-3 py-1 bg-brand-primary/10 border border-brand-primary/20 rounded-full mb-6">
                 <Star size={14} className="text-brand-accent fill-brand-accent" />
-                <span className="text-xs font-bold text-brand-primary uppercase tracking-wider">Smart TV et congélateurs en promo</span>
+                <span className="text-xs font-bold text-brand-primary uppercase tracking-wider">La meilleure qualité au meilleur prix</span>
               </div>
               <h1 className="font-display text-4xl md:text-6xl font-black text-white leading-tight mb-6">
-                Smart TV et congélateurs <span className="text-brand-primary">à petit prix</span>
+                {SITE_CONFIG.name.split(' ')[0]} <span className="text-brand-primary">{SITE_CONFIG.name.split(' ').slice(1).join(' ')}</span> à petit prix
               </h1>
               <p className="text-gray-300 text-lg md:text-xl mb-10 max-w-lg leading-relaxed">
-                Découvrez nos offres du moment: Smart TV 50 pouces et congélateurs de 100L à 700L. Commandez rapidement sur WhatsApp.
+                Bienvenue chez {SITE_CONFIG.name}, votre boutique de référence pour découvrir des équipements utiles pour la maison.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link
