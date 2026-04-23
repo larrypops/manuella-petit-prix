@@ -15,64 +15,64 @@
   },
   "products": [
     {
-      "id": "smart-tv-53-pouces",
-      "name": "Smart TV 53 pouces",
-      "shortDescription": "Grand écran moderne, idéal pour le salon et le divertissement à la maison.",
-      "fullDescription": "Cette Smart TV 53 pouces est un excellent choix pour les personnes qui recherchent un grand écran moderne pour le salon ou une pièce principale. Son format permet une expérience visuelle agréable pour le divertissement à la maison.",
-      "features": ["Grand écran", "Design moderne", "Idéal pour salon", "Confort visuel amélioré"],
-      "price": "99 900 FCFA",
-      "imageUrl": "/images/hero-image.png",
-      "whatsappMessage": "Bonjour, je suis intéressé(e) par la Smart TV 53 pouces."
-    },
-    {
-      "id": "smart-tv-50-pouces",
+      "id": "smart-tv-50-pouces-smart",
       "name": "Smart TV 50 pouces",
-      "shortDescription": "Une solution pratique pour profiter de vos contenus avec un bon confort visuel.",
-      "fullDescription": "La Smart TV 50 pouces est une solution idéale pour les clients qui recherchent un téléviseur moderne avec un bon équilibre entre taille d’écran et confort d’utilisation.",
-      "features": ["Écran confortable", "Design moderne", "Usage quotidien"],
-      "price": "85 000 FCFA",
+      "shortDescription": "Offre spéciale avec image grand format nette et immersive pour films, matchs et séries.",
+      "fullDescription": "Smart TV 50 pouces idéale pour le salon, le bureau ou le commerce. Offre promo avec livraison et installation gratuite. Autres dimensions disponibles sur demande (32\", 45\", 55\", 65\", 70\", 75\").",
+      "features": [
+        "Écran large HD",
+        "Smart TV (YouTube, Netflix, Internet)",
+        "Son clair et puissant",
+        "Design moderne et élégant"
+      ],
+      "price": "109 900 FCFA",
       "imageUrl": "/images/smart-tv/50-pouces-smart-tv.jpg",
       "whatsappMessage": "Bonjour, je suis intéressé(e) par la Smart TV 50 pouces."
     },
     {
-      "id": "refrigerateur-double-porte",
-      "name": "Réfrigérateur double porte",
-      "shortDescription": "Un équipement pratique pour conserver vos aliments au quotidien.",
-      "fullDescription": "Le réfrigérateur double porte est conçu pour offrir un espace de rangement adapté aux besoins de la maison.",
-      "features": ["Double porte", "Bonne capacité", "Pratique pour la maison"],
-      "price": "150 000 FCFA",
-      "imageUrl": "/images/congelateurs/congelateurs.jpg",
-      "whatsappMessage": "Bonjour, je suis intéressé(e) par le réfrigérateur double porte."
-    },
-    {
-      "id": "machine-a-laver-automatique",
-      "name": "Machine à laver automatique",
-      "shortDescription": "Un appareil utile pour faciliter l’entretien du linge à la maison.",
-      "fullDescription": "La machine à laver automatique permet de gagner du temps et d’améliorer le confort à la maison.",
-      "features": ["Utilisation pratique", "Conçue pour la maison", "Entretien du linge simplifié"],
-      "price": "125 000 FCFA",
+      "id": "congelateur-innova-200-litres",
+      "name": "Congélateur Innova 200 litres",
+      "shortDescription": "Promotion spéciale fin d'année pour un congélateur robuste, économique et pratique.",
+      "fullDescription": "Congélateur 200 litres de marque Innova, idéal pour la maison et le commerce. Modèle conçu pour garder les aliments frais plus longtemps avec une congélation rapide et une faible consommation d'énergie.",
+      "features": [
+        "Capacité 200 litres",
+        "Congélation rapide et efficace",
+        "Faible consommation d'énergie",
+        "Silencieux et durable"
+      ],
+      "price": "160 000 FCFA",
       "imageUrl": "/images/congelateurs-innova/congelateurs-innova-210-litres.jpg",
-      "whatsappMessage": "Bonjour, je suis intéressé(e) par la machine à laver automatique."
+      "whatsappMessage": "Bonjour, je suis intéressé(e) par le congélateur Innova 200 litres."
     },
     {
-      "id": "micro-ondes-compact",
-      "name": "Micro-ondes compact",
-      "shortDescription": "Simple, pratique et utile pour réchauffer rapidement vos repas.",
-      "fullDescription": "Le micro-ondes compact est idéal pour une cuisine moderne et pratique.",
-      "features": ["Format compact", "Utilisation simple", "Réchauffage rapide"],
-      "price": "45 000 FCFA",
+      "id": "congelateur-oscar-210-litres",
+      "name": "Congélateur Oscar 210 litres",
+      "shortDescription": "Congélateur puissant et économique, adapté à la maison comme au commerce.",
+      "fullDescription": "Congélateur Oscar 210 litres avec refroidissement rapide, faible consommation d'énergie et excellente résistance. Livraison possible selon disponibilité.",
+      "features": [
+        "Capacité 210 litres",
+        "Refroidissement rapide",
+        "Faible consommation d'énergie",
+        "Silencieux et très résistant"
+      ],
+      "price": "165 000 FCFA",
       "imageUrl": "/images/congelateurs-oscar/congelateur-oscar-210-litres.jpg",
-      "whatsappMessage": "Bonjour, je suis intéressé(e) par le micro-ondes compact."
+      "whatsappMessage": "Bonjour, je suis intéressé(e) par le congélateur Oscar 210 litres."
     },
     {
-      "id": "cuisiniere-avec-four",
-      "name": "Cuisinière avec four",
-      "shortDescription": "Une solution fonctionnelle pour mieux équiper votre cuisine.",
-      "fullDescription": "La cuisinière avec four est conçue pour répondre aux besoins essentiels de la cuisine à la maison.",
-      "features": ["Format pratique", "Four intégré", "Design fonctionnel"],
-      "price": "115 000 FCFA",
+      "id": "gamme-congelateurs",
+      "name": "Gamme Congélateurs (100L à 700L)",
+      "shortDescription": "Congélateurs performants et économiques pour maison, commerce et restaurant.",
+      "fullDescription": "Capacités disponibles: 100L (94 900 FCFA), 120L (110 000 FCFA), 150L (125 000 FCFA), 200L (145 000 FCFA), 250L (165 000 FCFA), 300L (180 000 FCFA), 350L (195 000 FCFA), 450L (310 000 FCFA), 500L (350 000 FCFA), 550L (420 000 FCFA), 700L (600 000 FCFA).",
+      "features": [
+        "Refroidissement rapide",
+        "Faible consommation (A+)",
+        "Grande capacité de stockage",
+        "Design solide et durable"
+      ],
+      "price": "À partir de 94 900 FCFA",
       "imageUrl": "/images/congelateurs/congelateurs.jpg",
-      "whatsappMessage": "Bonjour, je suis intéressé(e) par la cuisinière avec four."
+      "whatsappMessage": "Bonjour, je suis intéressé(e) par votre gamme de congélateurs (100L à 700L)."
     }
   ]
 }
